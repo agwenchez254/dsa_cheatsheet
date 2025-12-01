@@ -33,11 +33,11 @@
 	<li><code>1 &lt;= n &lt;= 9</code></li>
 </ul>
 
-## Solutions
+<!-- ## Solutions
 
 DFS.
 
-### **Python3**
+### **Python3** -->
 
 <!-- ```python
 class Solution:
